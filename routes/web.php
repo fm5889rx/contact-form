@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
 
 Route::get('/', [ContactController::class, 'index']);
+route::post('/confirm', [ContactController::class, 'confirm']);

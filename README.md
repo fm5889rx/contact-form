@@ -102,3 +102,5 @@ sail artisan key:generate
 - `public/css/confirm.css`
 - `public/css/thanks.css`
 
+<br>
+以降は旧教材に従って各機能を実装。
